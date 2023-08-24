@@ -32,3 +32,6 @@ npm-debug.log
 .build/
 *.orig
 yarn-error.log
+
+.idea
+node/coverage/*

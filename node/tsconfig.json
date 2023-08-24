@@ -6,5 +6,5 @@
     "module": "commonjs",
     "noEmitOnError": true
   },
-  "include": ["./**/*.ts", "./typings/*.d.ts"]
+  "include": ["./**/*.ts", "**/typings/*.d.ts"]
 }
